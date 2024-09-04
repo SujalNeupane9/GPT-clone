@@ -7,7 +7,7 @@ from django.contrib import auth
 from django.contrib.auth.models import User
 
 
-gemini_api_key = 'AIzaSyBNc_Yzs5uWlYtoXu_YK2QZtGAXQ5rUI1E'
+gemini_api_key = '......'
 os.environ["GOOGLE_API_KEY"] = gemini_api_key
 
 
